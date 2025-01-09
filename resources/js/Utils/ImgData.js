@@ -317,6 +317,49 @@ export const filteredImages = [
   },
 ];
 
+export const templateImages = [
+  {
+    title: 'Template image-1',
+    description: 'This is template result image 1',
+    url: '/assets/Image/img/AI-generated/generated-result1.png',
+  },
+  {
+    title: 'Template image-2',
+    description: 'This is generated result image 2',
+    url: '/assets/Image/img/AI-generated/generated-result2.png',
+  },
+  {
+    title: 'Template image-3',
+    description: 'This is template result image 3',
+    url: '/assets/Image/img/AI-generated/generated-result3.png',
+  },
+  {
+    title: 'Template image-4',
+    description: 'This is template result image 4',
+    url: '/assets/Image/img/AI-generated/generated-result4.png',
+  },
+  {
+    title: 'Template image-5',
+    description: 'This is template result image 5',
+    url: '/assets/Image/img/AI-generated/generated-result5.png',
+  },
+  {
+    title: 'Template image-6',
+    description: 'This is template result image 6',
+    url: '/assets/Image/img/AI-generated/generated-result6.png',
+  },
+  {
+    title: 'Template image-7',
+    description: 'This is template result image 7',
+    url: '/assets/Image/img/AI-generated/generated-result7.png',
+  },
+  {
+    title: 'Template image-8',
+    description: 'This is template result image 8',
+    url: '/assets/Image/img/AI-generated/generated-result7.png',
+  },
+];
+
 // Image data for TabContent3
 export const bannerData = [
   {
